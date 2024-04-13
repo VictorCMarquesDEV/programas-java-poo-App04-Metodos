@@ -1,4 +1,4 @@
-package App04;
+package app04;
 
 public class Metodos {
 
